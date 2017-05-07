@@ -1,0 +1,21 @@
+{
+  "name": "computer_repair",
+  "version": "1.0.0",
+  "description": "Second example of the NodeJS tutorial learn nodejs by builting 12 websites",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benedetto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  }
+}
